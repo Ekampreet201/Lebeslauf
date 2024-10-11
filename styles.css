@@ -1,0 +1,15 @@
+.fett{ 
+    color: rgb(10, 255, 173)
+    font-weight: bolder;
+    font-family: "helvetica
+}
+body{
+    background-color: cyan;
+    font-family: "Courier New", 'Courier New', Courier, monospace
+}
+header{
+    background-color: blue;
+    color: antiquewhite;
+    text-align: center;
+    
+}
